@@ -43,8 +43,10 @@
 -   Será exibido as matrículas encontradas
 -   E depois o aviso de exportação para Excel com sucesso
 
-<video width="600" height="400" src="video/doe-ba%20%E2%80%93%20diario.py%202023-07-02%2015-32-49.mp4" controls title="Title"></video>
-  
+<br>
+
+### Vídeo demonstrativo:
+<video src="video/doe-ba%20%E2%80%93%20diario.py%202023-07-02%2015-32-49%20(online-video-cutter.com).mp4" controls title="Title"></video>
   <br>
 
 ### Etapa 1
