@@ -1,11 +1,13 @@
 # Extração de matrículas no Diário Oficial - BA
 
 ## 🔗 Índice
--   <a href="#sobre">Sobre</a>
--   <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a>
--   <a href="#problema---consulta-manual">Problema - Consulta manual</a>
--   <a href="#como-usar">Como usar</a>
--   <a href="#referências">Referências</a>
+- [Sobre](#-sobre)
+- [Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [Problema - Consulta manual](#-problema---consulta-manual)
+- [Como usar](#-como-usar)
+- [Referências](#-referências)
+
+
 
 ## 📋 Sobre
 <p>Projeto desenvolvido para facilitar a busca das matrículas dos professores e gestores escolares no Diário Oficial do Estado da Bahia.</p>
