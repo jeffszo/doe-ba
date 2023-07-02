@@ -1,11 +1,16 @@
 # Extração de matrículas no Diário Oficial - BA
 
 ## 🔗 Índice
-- [Sobre](#-sobre)
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Problema - Consulta manual](#-problema---consulta-manual)
-- [Como usar](#-como-usar)
-- [Referências](#-referências)
+- [Extração de matrículas no Diário Oficial - BA](#extração-de-matrículas-no-diário-oficial---ba)
+  - [🔗 Índice](#-índice)
+  - [📋 Sobre](#-sobre)
+  - [🎯 Tecnologias utilizadas:](#-tecnologias-utilizadas)
+  - [🪲 Problema - Consulta manual](#-problema---consulta-manual)
+  - [♨️ Como usar](#️-como-usar)
+  - [Vídeo demonstrativo:](#vídeo-demonstrativo)
+    - [Etapa 1](#etapa-1)
+    - [Etapa 2](#etapa-2)
+  - [🌐 Referências](#-referências)
 
 
 
@@ -48,7 +53,7 @@
 <br>
 
 
-### Vídeo demonstrativo:
+## Vídeo demonstrativo:
 
 <video src="video/doe-ba%20%E2%80%93%20diario.py%202023-07-02%2015-32-49%20(online-video-cutter.com).mp4" controls title="Title"></video>
 
