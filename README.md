@@ -55,7 +55,7 @@
 
 <p><strong>Até então só está disponível a versão via terminal ❗</strong></p>
 
-<br><br>
+<br>
 
 ## 🌐 Referências
 <p>Aprendi alguns conceitos importantes com:</p>
