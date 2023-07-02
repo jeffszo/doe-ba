@@ -1,11 +1,12 @@
 # Extração de matrículas no Diário Oficial - BA
 
 ## 🔗 Índice
-- [Sobre](#Sobre)
-- [Tecnologias utilizadas](#Tecnologias-utilizadas)
-- [Problema - Consulta manual](#Problema---Consulta-manual)
-- [Como usar](#Como-usar)
-- [Referências](#Referências)
+- [Sobre](#-sobre)
+- [Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [Problema - Consulta manual](#-problema---consulta-manual)
+- [Como usar](#-como-usar)
+- [Referências](#-referências)
+
 
 
 ## 📋 Sobre
