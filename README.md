@@ -45,9 +45,7 @@
 
 <br>
 
-### Vídeo demonstrativo:
-<video src="video/doe-ba%20%E2%80%93%20diario.py%202023-07-02%2015-32-49%20(online-video-cutter.com).mp4" controls title="Title"></video>
-  <br>
+
 
 ### Etapa 1
 ![Terminal](img/terminal-01.png)
