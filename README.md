@@ -1,6 +1,7 @@
 # Extração de matrículas no Diário Oficial - BA
 
 ## 🔗 Índice
+- [Extração de matrículas no Diário Oficial - BA](#extração-de-matrículas-no-diário-oficial---ba)
   - [🔗 Índice](#-índice)
   - [📋 Sobre](#-sobre)
   - [🎯 Tecnologias utilizadas:](#-tecnologias-utilizadas)
@@ -8,7 +9,6 @@
   - [♨️ Como usar](#️-como-usar)
     - [Etapa 1](#etapa-1)
     - [Etapa 2](#etapa-2)
-  - [🌐 Referências](#-referências)
 
 
 
@@ -62,8 +62,3 @@
 
 <br>
 
-## 🌐 Referências
-<p>Aprendi alguns conceitos importantes com:</p>
-  
-  - https://www.youtube.com/@nerddosdados
-  - https://www.youtube.com/@WalissonSilva
