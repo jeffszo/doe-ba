@@ -6,7 +6,6 @@
   - [🎯 Tecnologias utilizadas:](#-tecnologias-utilizadas)
   - [🪲 Problema - Consulta manual](#-problema---consulta-manual)
   - [♨️ Como usar](#️-como-usar)
-  - [Vídeo demonstrativo:](#vídeo-demonstrativo)
     - [Etapa 1](#etapa-1)
     - [Etapa 2](#etapa-2)
   - [🌐 Referências](#-referências)

@@ -2,7 +2,7 @@ import re
 import pdfplumber
 import xlsxwriter
 
-
+# Percorrer todas as páginas e extrair todo conteúdo em texto
 def extrair_texto_pdf(caminho_pdf):
     texto = ""
     with pdfplumber.open(caminho_pdf) as arquivo_pdf:
@@ -13,10 +13,12 @@ def extrair_texto_pdf(caminho_pdf):
             texto += objeto_pagina.extract_text()
     return texto
 
+# Extrair as matrículas do texto obtido
 def extrair_matriculas_com_iniciais_onze(texto):
     padrao = r"\b11\d{6}\b"
     matriculas_encontradas = re.findall(padrao, texto)
     return matriculas_encontradas
+
 
 def extrair_matriculas_com_iniciais_oito(texto):
     padrao_2 = r"\b8\d{7}\b"
@@ -25,7 +27,6 @@ def extrair_matriculas_com_iniciais_oito(texto):
 
 
 print('Seja bem-vindo(a)!')
-
 caminho_do_pdf = input('Digite o caminho do arquivo PDF: ')
 texto_extraido = extrair_texto_pdf(caminho_do_pdf)
 
@@ -38,9 +39,8 @@ for numero in matriculas_encontradas:
 for numero2 in matriculas_encontradas2:
     print(numero2)
 
-
+# Exportar as matriculas obtidas para Excel
 def exportar_para_excel(dados, nome_arquivo):
-
     workbook = xlsxwriter.Workbook(nome_arquivo)
     sheet = workbook.add_worksheet()
     sheet.write(0, 0, "Matrículas")
@@ -48,12 +48,10 @@ def exportar_para_excel(dados, nome_arquivo):
     for linha, dado in enumerate(dados, start=1):
         sheet.write(linha, 0, dado)
 
-
     workbook.close()
+
 
 dados = matriculas_encontradas + matriculas_encontradas2
 nome_arquivo_excel = "dados_matriculas.xlsx"
 exportar_para_excel(dados, nome_arquivo_excel)
 print('Arquivo exportado em Excel com sucesso!')
-
-
